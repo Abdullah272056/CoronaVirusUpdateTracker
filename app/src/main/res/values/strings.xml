@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Corona Update</string>
+    <string-array name="country_name">
+
+        <item>World</item>
+        <item>Afghanistan</item>
+        <item>America</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>England</item>
+        <item>Iran</item>
+        <item>Italy</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Srilanka</item>
+
+    </string-array>
 </resources>

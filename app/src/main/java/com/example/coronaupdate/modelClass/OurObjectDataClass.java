@@ -1,4 +1,4 @@
-package com.example.coronaupdate;
+package com.example.coronaupdate.modelClass;
 
 public class OurObjectDataClass {
     private String country;
